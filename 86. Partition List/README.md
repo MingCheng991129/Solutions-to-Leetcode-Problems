@@ -4,3 +4,5 @@ time complexity: O(n)
 space complexity: O(n)
 
 The question is shown below:
+
+![image](https://github.com/MingCheng991129/Solutions-to-Leetcode-Problems/blob/master/86.%20Partition%20List/question.png)
