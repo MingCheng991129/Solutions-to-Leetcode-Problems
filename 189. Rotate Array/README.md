@@ -4,4 +4,4 @@ I will give new solutions soon...
 
 The question is shown below:
 
-![img] (https://github.com/MingCheng991129/Solutions-to-Leetcode-Problems/blob/master/189.%20Rotate%20Array/question.png)
+![img](https://github.com/MingCheng991129/Solutions-to-Leetcode-Problems/blob/master/189.%20Rotate%20Array/question.png)
